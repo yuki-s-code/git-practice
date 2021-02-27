@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルレポで変更
-no fast branch conflict作成
+Github上で更新
